@@ -1,0 +1,16 @@
+Maine, Augusta
+Vermont, Montpelier
+New Hampshire, Concord
+Massachusetts, Boston
+Connecticut, Hartford
+Rhode Island, Providence
+New York, Albany
+Pennsylvania, Harrisburg
+New Jersey, Trenton
+Maryland, Annapolis
+Delaware, Dover
+Virginia, Richmond
+North Carolina, Raleigh
+South Carolina, Columbia
+Georgia, Atlanta
+Florida, Tallahassee

@@ -1,0 +1,5 @@
+Illinois, Springfield
+Michigan, Lansing
+Oregon, Salem
+Wisconsin, Madison
+Alaska, Juneau
